@@ -57,11 +57,11 @@ a {
     transition: all .4s linear;
 }
 
-/* .login-html .sign-in,
+.login-html .sign-in,
 .login-html .sign-up,
 .login-form .group .check {
     display: none;
-} */
+}
 
 .login-html .tab,
 .login-form .group .label,
